@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "videoslink",
+    "site": "videoslinkes",
     "public": "public",
     "ignore": [
       "firebase.json",
